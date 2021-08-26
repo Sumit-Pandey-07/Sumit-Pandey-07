@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Sumit-Pandey-07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sumit-Pandey-07I'm an Indian Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from Graphic Era University and Technology.I'm a Pythoneer who loves coding in Python along with other General-Purpose Languages like C and Java. I'm passionate about Machine learning, and Web Development with an active interest in making  websites . 
 
-<!---
-Sumit-Pandey-07/Sumit-Pandey-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👀 I’m interested in Programming.
+🔭 I’m currently contributing to some open source.
+🌱 I’m currently learning various new technologies.
+💬 Ask me about anything, I am happy to help;
