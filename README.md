@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit-Pandey-07I'm an  Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from Graphic Era University and Technology. I'm passionate about Machine learning, and Web Development with an active interest in making  websites . 
+- 👋 Hi, I’m @Sumit-Pandey-07I'm an  Undergraduate Student currently undertaking a Bachelors in Computer Science and Engineering from Graphic Era University and Technology. I'm passionate about  Web Development with an active interest in making  websites . 
 
 
 - 👀 I’m interested in Programming.
